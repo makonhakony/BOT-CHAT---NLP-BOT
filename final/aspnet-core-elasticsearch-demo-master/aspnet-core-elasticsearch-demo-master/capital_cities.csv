@@ -1,0 +1,46 @@
+﻿city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Sài Gòn,eat,10.7741114,106.7019031,Việt Nam,Gourmet café,eat,Lầu 7 - 42 Nguyễn Huệ Phường Bến Nghé Quận 1 TP. Hồ Chí Minh,09:00 - 21:00,1,1901760068
+Sài Gòn,eat,10.768744,106.6988146,Việt Nam,Quán Chị Linh,eat,192 Nguyễn Công Trí Phường Nguyễn Thái Bình Quận 1 TP. Hồ Chí Minh,11:30 - 18:00,1,1930654114
+Sài Gòn,eat,10.7695941,106.6904017,Việt Nam,Bánh Tráng Gánh,eat,Ngã Ba Lê Lai & Nguyễn Văn Tráng Phường Phạm Ngũ Lão TP. Hồ Chí Minh,14:00 - 22:00,1,1934000006
+Sài Gòn,eat,10.778952,106.7005211,Việt Nam,Quán Cô Cúc,eat,76 Hai Bà Trưng Phường Bến Nghé Quận 1 TP. Hồ Chí Minh,14:00 - 20:00,1,1887750814
+Sài Gòn,eat,10.7823752,106.7025604,Việt Nam,Osaka Sushi,eat, 8 Lý Tự Trọng Phường Bến Nghé Quận 1 TP. Hồ Chí Minh,09:00 - 22:00,1,1710176249
+Sài Gòn,eat,10.7796114,106.7609691,Việt Nam,Ốc Mẹt,eat,441 Nguyễn Thị Định Cát Lái Quận 2 TP. Hồ Chí Minh,15:00 - 19:00,2,1710495933
+Sài Gòn,eat,10.799993,106.7349627,Việt Nam,BBQ Ông Mập,eat,45 Song Hành An Phú Quận 2 TP. Hồ Chí Minh,17:00 - 01:00,2,1710680650
+Sài Gòn,eat,10.7982022,106.7365292,Việt Nam,Ốc Bay,eat,1 Thảo Điền Phường Thảo Điền Quận 2 TP. Hồ Chí Minh,16:00 - 00:00,2,1894157390
+Sài Gòn,eat,10.802441,106.7359767,Việt Nam,Nomu Restaurant,eat,10 Thảo Điền Phường Thảo Điền Quận 2 TP. Hồ Chí Minh,17:30 - 23:00,2,1716196799
+Sài Gòn,eat,10.788424,106.7665232,Việt Nam,Hoa Ban Quán,eat,537/13 Nguyễn Duy Trinh Phường Bình Trưng Đông Quận 2 TP. Hồ Chí Minh,13:00 - 23:00,2,1398516045
+Sài Gòn,eat,10.7874442,106.6804913,Việt Nam,Ba Con Bò Quán,eat,220/118 Lê Văn Sỹ Phường 14 Quận 3 TP. Hồ Chí Minh,06:00 - 23:00,3,1418732714
+Sài Gòn,eat,10.7667261,106.6761591,Việt Nam,Lẩu Bò Nhà Gỗ,eat,162 Lý Thái Tổ Phường 1 Quận 3 TP. Hồ Chí Minh,11:00 - 23:00,3,1422847713
+Sài Gòn,eat,10.7864204,106.688227,Việt Nam,Rau Má Chip,eat,166 Võ Thị Sáu Phường 8 Quận 3 TP. Hồ Chí Minh,08:00 - 22:00,3,1662922505
+Hà Nội,eat,10.7876364,106.6708906,Việt Nam,Quán Hủ Tíếu Bò Viên,eat,1046 Trường Sa Phường 12 Quận 3 TP. Hồ Chí Minh,16:00 - 22:00,3,1438317747
+Sài Gòn,eat,10.7867641,106.6713214,Việt Nam,Sinh Tố Nước Ép 971,eat, 971 Hoàng Sa Phường 11 Quận 3 TP. Hồ Chí Minh,08:00 - 20:00,3,1144251314
+Sài Gòn,hotel,10.7784697,106.7027093,Việt Nam,DYN Opera Hotel,hotel,18 Cao Bá Quát Quận 1 TP. Hồ Chí Minh Việt Nam,,1,1144239330
+Sài Gòn,hotel,10.768744,106.6988146,Việt Nam,Monrovia Hotel,hotel,192 Nguyễn Công Trí Phường Nguyễn Thái Bình Quận 1 TP. Hồ Chí Minh,,1,1430477826
+Sài Gòn,hotel,10.7695941,106.6904017,Việt Nam,Maseru Hotel,hotel,Ngã Ba Lê Lai & Nguyễn Văn Tráng Phường Phạm Ngũ Lão TP. Hồ Chí Minh,,1,1426977668
+Sài Gòn,hotel,10.778952,106.7005211,Việt Nam,Vilnius Hotel,hotel,76 Hai Bà Trưng Phường Bến Nghé Quận 1 TP. Hồ Chí Minh,,1,1440887149
+Sài Gòn,hotel,10.7823752,106.7025604,Việt Nam,Luxembourg Hotel,hotel, 8 Lý Tự Trọng Phường Bến Nghé Quận 1 TP. Hồ Chí Minh,,1,1442262731
+Sài Gòn,hotel,10.7796114,106.7609691,Việt Nam,Riga Hotel,hotel,441 Nguyễn Thị Định Cát Lái Quận 2 TP. Hồ Chí Minh,,2,1428586192
+Sài Gòn,hotel,10.799993,106.7349627,Việt Nam,Tripoli Hotel,hotel,45 Song Hành An Phú Quận 2 TP. Hồ Chí Minh,,2,1434201852
+Sài Gòn,hotel,10.7982022,106.7365292,Việt Nam,Rabat Hotel,hotel,1 Thảo Điền Phường Thảo Điền Quận 2 TP. Hồ Chí Minh,,2,1504023252
+Sài Gòn,hotel,10.802441,106.7359767,Việt Nam,Monaco Hotel,hotel,10 Thảo Điền Phường Thảo Điền Quận 2 TP. Hồ Chí Minh,,2,1492854256
+Sài Gòn,hotel,10.788424,106.7665232,Việt Nam,Chișinău Hotel,hotel,537/13 Nguyễn Duy Trinh Phường Bình Trưng Đông Quận 2 TP. Hồ Chí Minh,,2,1498011437
+Sài Gòn,hotel,10.7874442,106.6804913,Việt Nam,Podgorica Hotel,hotel,220/118 Lê Văn Sỹ Phường 14 Quận 3 TP. Hồ Chí Minh,,3,1499454516
+Sài Gòn,hotel,10.7667261,106.6761591,Việt Nam,Marigot Hotel,hotel,162 Lý Thái Tổ Phường 1 Quận 3 TP. Hồ Chí Minh,,3,1663133172
+Sài Gòn,hotel,10.7864204,106.688227,Việt Nam,Antananarivo Hotel,hotel,166 Võ Thị Sáu Phường 8 Quận 3 TP. Hồ Chí Minh,,3,1450978461
+Sài Gòn,hotel,10.7876364,106.6708906,Việt Nam,Majuro Hotel,hotel,1046 Trường Sa Phường 12 Quận 3 TP. Hồ Chí Minh,,3,1584000000
+Sài Gòn,hotel,10.7867641,106.6713214,Việt Nam,Skopje Hotel,hotel, 971 Hoàng Sa Phường 11 Quận 3 TP. Hồ Chí Minh,,3,1807600615
+Sài Gòn,event,10.7784697,106.7027093,Việt Nam,Bamako Event,event,18 Cao Bá Quát Quận 1 TP. Hồ Chí Minh Việt Nam,2020-01-10T00:00:00.000+07:00,1,1466965925
+Sài Gòn,event,10.768744,106.6988146,Việt Nam,Rangoon Event,event,192 Nguyễn Công Trí Phường Nguyễn Thái Bình Quận 1 TP. Hồ Chí Minh,2020-01-10T00:00:00.000+07:00,1,1104616656
+Sài Gòn,event,10.7695941,106.6904017,Việt Nam,Naypyidaw Event,event,Ngã Ba Lê Lai & Nguyễn Văn Tráng Phường Phạm Ngũ Lão TP. Hồ Chí Minh,2020-01-10T00:00:00.000+07:00,1,1104838105
+Sài Gòn,event,10.778952,106.7005211,Việt Nam,Ulaanbaatar Event,event,76 Hai Bà Trưng Phường Bến Nghé Quận 1 TP. Hồ Chí Minh,2020-01-11T00:00:00.000+07:00,1,1496024767
+Sài Gòn,event,10.7823752,106.7025604,Việt Nam,Nouakchott Event,event, 8 Lý Tự Trọng Phường Bến Nghé Quận 1 TP. Hồ Chí Minh,2020-01-11T00:00:00.000+07:00,1,1478414984
+Sài Gòn,event,10.7796114,106.7609691,Việt Nam,Plymouth Event,event,441 Nguyễn Thị Định Cát Lái Quận 2 TP. Hồ Chí Minh,2020-01-12T00:00:00.000+07:00,2,1500711935
+Sài Gòn,event,10.799993,106.7349627,Việt Nam,Valletta Event,event,45 Song Hành An Phú Quận 2 TP. Hồ Chí Minh,2020-01-12T00:00:00.000+07:00,2,1470574399
+Sài Gòn,event,10.7982022,106.7365292,Việt Nam,Port Louis Event,event,1 Thảo Điền Phường Thảo Điền Quận 2 TP. Hồ Chí Minh,2020-01-13T00:00:00.000+07:00,2,1480131261
+Sài Gòn,event,10.802441,106.7359767,Việt Nam,Malé Event,event,10 Thảo Điền Phường Thảo Điền Quận 2 TP. Hồ Chí Minh,2020-01-14T00:00:00.000+07:00,2,1462441685
+Sài Gòn,event,10.788424,106.7665232,Việt Nam,Lilongwe Event,event,537/13 Nguyễn Duy Trinh Phường Bình Trưng Đông Quận 2 TP. Hồ Chí Minh,2020-01-14T00:00:00.000+07:00,2,1454688499
+Sài Gòn,event,10.7874442,106.6804913,Việt Nam,Mexico City Event,event,220/118 Lê Văn Sỹ Phường 14 Quận 3 TP. Hồ Chí Minh,2020-01-15T00:00:00.000+07:00,3,1484247881
+Sài Gòn,event,10.7667261,106.6761591,Việt Nam,Kuala Lumpur Event,event,162 Lý Thái Tổ Phường 1 Quận 3 TP. Hồ Chí Minh,2020-01-15T00:00:00.000+07:00,3,1458988644
+Sài Gòn,event,10.7864204,106.688227,Việt Nam,Maputo Event Event,event,166 Võ Thị Sáu Phường 8 Quận 3 TP. Hồ Chí Minh,2020-01-16T00:00:00.000+07:00,3,1508074843
+Sài Gòn,event,10.7876364,106.6708906,Việt Nam,Windhoek Event,event,1046 Trường Sa Phường 12 Quận 3 TP. Hồ Chí Minh,2020-01-16T00:00:00.000+07:00,3,1516802003
+Sài Gòn,event,10.7867641,106.6713214,Việt Nam,Nouméa Event,event, 971 Hoàng Sa Phường 11 Quận 3 TP. Hồ Chí Minh,2020-01-17T00:00:00.000+07:00,3,1540958092

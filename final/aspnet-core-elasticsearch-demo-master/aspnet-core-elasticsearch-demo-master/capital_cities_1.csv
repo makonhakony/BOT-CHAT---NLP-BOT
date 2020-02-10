@@ -1,0 +1,21 @@
+﻿city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Gourmet café,Gourmet cafe,10.7741114,106.7019031,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,Lầu 7 - 42 Nguyễn Huệ Phường Bến Nghé Quận 1 TP. Hồ Chí Minh,primary,09:00 - 21:00,1901760068
+Quán Chị Linh,Quan Chi Linh,10.768744,106.6988146,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,192 Nguyễn Công Trí Phường Nguyễn Thái Bình Quận 1 TP. Hồ Chí Minh,primary,11:30 - 18:00,1930654114
+Bánh Tráng Gánh,Banh Trang Ganh,10.7695941,106.6904017,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,Ngã Ba Lê Lai & Nguyễn Văn Tráng Phường Phạm Ngũ Lão TP. Hồ Chí Minh,primary,14:00 - 22:00,1934000006
+Quán Cô Cúc,Quan Co Cuc,10.778952,106.7005211,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,76 Hai Bà Trưng Phường Bến Nghé Quận 1 TP. Hồ Chí Minh,primary,14:00 - 20:00,1887750814
+Osaka Sushi,Osaka Sushi,10.7823752,106.7025604,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,SG,eat," 8 Lý Tự Trọng, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh",primary,"09:00 - 14:00, 17:00 - 22:00",1710176249
+Ốc Mẹt,Oc Met,10.7796114,106.7609691,Quận 2 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,"441 Nguyễn Thị Định, Cát Lái, Quận 2, TP. Hồ Chí Minh",primary,15:00 - 19:00,1710495933
+BBQ Ông Mập,BBQ Ong Map,10.799993,106.7349627,Quận 2 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,"45 Song Hành, An Phú, Quận 2, TP. Hồ Chí Minh",primary,17:00 - 01:00,1710680650
+Ốc Bay,Oc Bay,10.7982022,106.7365292,Quận 2 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,"1 Thảo Điền, Phường Thảo Điền, Quận 2, TP. Hồ Chí Minh",primary,16:00 - 00:00,1894157390
+Nomu Restaurant,Nomu Restaurant,10.802441,106.7359767,Quận 2 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,"10 Thảo Điền, Phường Thảo Điền, Quận 2, TP. Hồ Chí Minh",primary,17:30 - 23:00,1716196799
+Hoa Ban Quán,Hoa Ban Quan,10.788424,106.7665232,Quận 2 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,"537/13 Nguyễn Duy Trinh, Phường Bình Trưng Đông, Quận 2, TP. Hồ Chí Minh",primary,13:00 - 23:00,1398516045
+Ba Con Bò Quán,Ba Con Bo Quan,10.7874442,106.6804913,Quận 3 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,"220/118 Lê Văn Sỹ, Phường 14, Quận 3, TP. Hồ Chí Minh",primary,06:00 - 23:00,1418732714
+Lẩu Bò Nhà Gỗ,Lau Bo Nha Go,10.7667261,106.6761591,Quận 3 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,"162 Lý Thái Tổ, Phường 1, Quận 3, TP. Hồ Chí Minh",primary,11:00 - 23:00,1422847713
+Rau Má Chip,Rau Ma Chip,10.7864204,106.688227,Quận 3 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,"166 Võ Thị Sáu, Phường 8, Quận 3, TP. Hồ Chí Minh",primary,08:00 - 22:00,1662922505
+Quán Hủ Tíếu Bò Viên,Quan Hu Tieu Bo Vien,10.7876364,106.6708906,Quận 3 Sài Gòn Thành phố Hồ Chí Minh,SG,eat,"1046 Trường Sa, Phường 12, Quận 3, TP. Hồ Chí Minh",primary,16:00 - 22:00,1438317747
+Sinh Tố Nước Ép 971,Sinh To Nuoc ep 971,10.7867641,106.6713214,Quận 3 Sài Gòn Thành phố Hồ Chí Minh,SG,eat," 971 Hoàng Sa, Phường 11, Quận 3, TP. Hồ Chí Minh",primary,08:00 - 20:00,1144251314
+DYN Opera Hotel,DYN Opera Hotel,10.7784697,106.7027093,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,SG,hotel,"18 Cao Ba Quat, District 1, Quận 1, TP. Hồ Chí Minh, Việt Nam",primary,,1144239330
+Monrovia,Monrovia,6.3106,-10.8048,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,LR,eat,Montserrado,primary,,1430477826
+Maseru,Maseru,-29.3167,27.4833,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,LS,eat,Maseru,primary,,1426977668
+Vilnius,Vilnius,54.6834,25.3166,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,LT,eat,Vilniaus Miestas,primary,,1440887149
+Luxembourg,Luxembourg,49.6117,6.13,Quận 1 Sài Gòn Thành phố Hồ Chí Minh,LU,eat,Luxembourg,primary,,1442262731
