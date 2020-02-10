@@ -159,6 +159,10 @@
   dependencies:
     tslib "^1.7.1"
 
+"@aspnet/signalr-client@^1.0.0-alpha2-final":
+  version "1.0.0-alpha2-update1"
+  resolved "https://registry.yarnpkg.com/@aspnet/signalr-client/-/signalr-client-1.0.0-alpha2-update1.tgz#19970bf998cd45e459e7a7079af2be94b3d85b0b"
+
 "@ngtools/json-schema@1.2.0":
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@ngtools/json-schema/-/json-schema-1.2.0.tgz#06e5ecd29e9a37d260a447dd873ea2becd228c4f"
@@ -1804,8 +1808,8 @@ di@^0.0.1:
   resolved "https://registry.yarnpkg.com/di/-/di-0.0.1.tgz#806649326ceaa7caa3306d75d985ea2748ba913c"
 
 diff@^3.1.0, diff@^3.2.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/diff/-/diff-3.4.0.tgz#b1d85507daf3964828de54b37d0d73ba67dda56c"
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/diff/-/diff-3.5.0.tgz#800c0dd1e0a8bfbc95835c202ad220fe317e5a12"
 
 diffie-hellman@^5.0.0:
   version "5.0.2"
